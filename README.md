@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Backend developer</h1>
-<h3 align="center">I currently training to become a data scientist and work as symfony API Developer from a Abidjan, Côte d'Ivoire cote_divoire. In my spare time I do small mobile projects</h3>
+<h3 align="center">I currently training to become a data scientist and work as symfony API Developer from a Abidjan, Côte d'Ivoire :cote_divoire:. In my spare time I do small mobile projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greycoderk&label=Profile%20views&color=0e75b6&style=flat" alt="greycoderk" /> </p>
 
